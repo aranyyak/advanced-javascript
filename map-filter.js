@@ -25,5 +25,6 @@ const result = numbers.map(function (element) {
 
 const bigger = numbers.filter(x => x>5);
 
+
 const isThere = numbers.find(x => x>5);
 console.log(isThere);
